@@ -1,0 +1,37 @@
+private.config
+
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+[Bb]in/
+[Oo]bj/
+
+# mstest test results
+TestResults/
+
+_ReSharper.*
+*.user
+*.csproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+*~
+*.swp
+/Build
+NDependOut
+
+*.vspscc
+*.vssscc
+
+[Rr]elease*/
+packages*/
+
+# Publish directory
+[Pp]ublish
+
+# Publish Web Output
+*.Publish.xml
+
+#WCF Service Trace Log
+*.e2e
+
+.vs/config/

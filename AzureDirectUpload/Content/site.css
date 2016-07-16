@@ -1,0 +1,15 @@
+﻿body {
+    padding: 8px 32px;
+}
+
+
+#list {
+    height: 400px;
+    overflow-y: scroll;
+    background-color: #ffc;
+}
+
+.note {
+    color: #888;
+    font-size: small;
+}
