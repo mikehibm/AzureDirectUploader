@@ -1,6 +1,6 @@
 ﻿# Azure Direct Uploader
 
-<img src="https://raw.github.com/wiki/mikehibm/AzureDirectUploader/images/AzureDirectUploader.png" width="300">
+<img src="https://raw.github.com/wiki/mikehibm/AzureDirectUploader/images/AzureDirectUploader.png" width="560">
 
 Uploads an entire local directory to Azure Storage (Blob) directly from browsers.
 
